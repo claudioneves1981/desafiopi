@@ -5,6 +5,8 @@ import java.net.URL;
 import java.util.ArrayList;
 import java.util.List;
 
+//Desafio pi, achar o primo palindromo de 9 digitos da extensao decimal de pi 
+
 public class Pi {
 
     public static void main(String[] args) throws IOException {
